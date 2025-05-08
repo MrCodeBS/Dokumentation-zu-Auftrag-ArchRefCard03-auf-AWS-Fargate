@@ -1,6 +1,5 @@
 ## Theoretischer Abschnitt
-
-![Mermaid Chart](<Editor _ Mermaid Chart-2025-05-07-162113.png>)
+<img src="Editor _ Mermaid Chart-2025-05-07-162113.png" alt="Mermaid Chart" width="65%">
 
 ### Kurzzusammenfassung des Workflows
 1. **Build**: Dockerfile → Image  
